@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+*.swp
+__pycache__
+
+venv/
+
